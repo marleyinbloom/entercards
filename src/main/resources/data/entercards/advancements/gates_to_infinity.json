@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "entercards:entercard_frame"
+    },
+    "title": "Gates to Infinity",
+    "description": "Craft an Entercard Frame",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "entercards:entercards",
+  "criteria": {
+    "a": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "entercards:entercard_frame"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

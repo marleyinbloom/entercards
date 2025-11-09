@@ -1,0 +1,16 @@
+{
+    "item.entercards.unstable_entercard": "Unstable Entercard",
+    "item.entercards.blank_entercard": "Blank Entercard",
+
+    "item.entercards.moon_entercard": "Moon Entercard",
+    "item.entercards.lesser_moon_entercard": "Lesser Moon Entercard",
+    "item.entercards.sun_entercard": "Sun Entercard",
+    "item.entercards.lesser_sun_entercard": "Lesser Sun Entercard",
+
+    "item.entercards.unstable_mysteriosity_clump": "Unstable Mysteriosity Clump",
+    "item.entercards.mysteriosity_clump": "Mysteriosity Clump",
+    "item.entercards.rescue_request": "Rescue Request",
+    "item.entercards.wonder_request": "Wonder Request",
+    "item.entercards.entercard_frame": "Entercard Frame",
+    "item.entercards.escape_badge": "Escape Badge"
+}

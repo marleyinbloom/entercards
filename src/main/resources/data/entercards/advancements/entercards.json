@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "item": "entercards:escape_badge"
+    },
+    "title": "Entercards",
+    "description": "Infinite adventures await",
+    "background": "entercards:solid_mysteriosity",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "a": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

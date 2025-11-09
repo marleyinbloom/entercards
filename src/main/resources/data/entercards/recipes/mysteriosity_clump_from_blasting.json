@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "entercards:unstable_mysteriosity_clump"
+    },
+    {
+      "item": "entercards:solid_mysteriosity"
+    }
+  ],
+  "result": "entercards:mysteriosity_clump",
+  "experience": 2,
+  "cookingtime": 200
+}

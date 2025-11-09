@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		"RER",
+		"III"
+	],
+	"key": {
+		"R": {
+			"item": "minecraft:redstone"
+		},
+		"E": {
+			"item": "minecraft:ender_eye"
+		},
+		"I": {
+			"item": "entercards:mysteriosity_clump"
+		}
+	},
+	"result": {
+		"item": "entercards:blank_entercard",
+		"count": 1
+	}
+}

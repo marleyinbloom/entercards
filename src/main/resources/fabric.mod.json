@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "entercards",
+	"version": "${version}",
+	"name": "Entercards",
+	"description": "Assemble some entercards and summon magnagates to mysterious new worlds. Adventure awaits!",
+	"authors": [
+		"marleyinbloom"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/entercards/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"io.itch.marleyinbloom.entercards.Entercards"
+		],
+		"fabric-datagen": [
+			"io.itch.marleyinbloom.entercards.EntercardsDataGenerator"
+		]
+	},
+	"mixins": [
+		"entercards.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
